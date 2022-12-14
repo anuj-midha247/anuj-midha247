@@ -64,6 +64,11 @@
 
 
 
+### Cloud platform  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+</div>
+
 </td></tr></table>  
 
 <br/>  
@@ -93,6 +98,16 @@
 
 
 ## Recent Blog Posts  
+
+
+### PortFolio  
+https://dashing-cuchufli-b50ecd.netlify.app/  
+  
+
+
+
+### RESUME  
+https://drive.google.com/file/d/1PP3lBu5EXR0CUEWLFZuAuQ6v0MbeI3Le/view?usp=sharing  
   
 
 <br/>  
@@ -114,8 +129,11 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a></div>  
+
+<br/>  
+
+
 <br />
 
 ----
-
